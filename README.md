@@ -1,10 +1,14 @@
-![Header](./your-header-image-name.png)
+
 
 
 
 <h1 align="center">Hi 👋, I'm karan singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0veZ5T-aBVRAVa1udxUP08&ust=1707318878193000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMD84KqAl4QDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0veZ5T-aBVRAVa1udxUP08&ust=1707318878193000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMD84KqAl4QDFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Flinkedin-banners%2Ftemplates%2F&psig=AOvVaw2x-K0--lsTdyLOdmQiZWDP&ust=1707320035065000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDf59OEl4QDFQAAAAAdAAAAABAE)](https://media0.giphy.com/media/WHRiXraIFrfIBv6ALG/giphy.gif?cid=790b7611abdbe3cd1d7985efae50216485bbccd604cb5a6c&rid=giphy.gif&ct=g)">
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karansingh34951&label=Profile%20views&color=0e75b6&style=flat" alt="karansingh34951" /> </p>
 
